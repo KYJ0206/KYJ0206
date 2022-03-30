@@ -3,7 +3,7 @@ Publisher and Developer
 
 <div align=center>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=gruvbox)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYJ0206&layout=compact&theme=gruvbox)
  
 ## I am studying JavaScript and React <br>
