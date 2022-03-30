@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=radical)
  
 ## 자바스크립트와 리액트를 공부중입니다🌱<br>
 
