@@ -6,7 +6,7 @@
  
 ## I am studying JavaScript and React <br>
 
-[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/KYJ0206/JavaScript_practice)
+[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white&borderRadius=5px)](https://github.com/KYJ0206/JavaScript_practice)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/KYJ0206/Publishing) 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/KYJ0206/React_Project) 
 [![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/KYJ0206/React_Project)
