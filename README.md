@@ -1,4 +1,6 @@
 ## Hi I'm Kim.YJ 
+---
+Publisher and Developer
 
 <div align=center>
 
