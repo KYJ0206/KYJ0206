@@ -2,13 +2,13 @@
 
 # Hi I'm Kim.YJ 
  
-#### Publisher and Developer
+## Publisher and Developer
  
-#### Kickstart Your Web Developer Career<br><br>
+## Kickstart Your Web Developer Career<br><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=gruvbox)
  
-## I am studying JavaScript and React <br>
+#### I am studying JavaScript and React <br>
 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/KYJ0206/JavaScript_practice)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/KYJ0206/Publishing) 
