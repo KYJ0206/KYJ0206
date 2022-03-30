@@ -1,6 +1,6 @@
 <div align=center>
 
-## Hi I'm Kim.YJ 
+# Hi I'm Kim.YJ 
  
 #### Publisher and Developer
  
