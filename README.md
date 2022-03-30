@@ -1,5 +1,7 @@
-<div align=center>
 ## Hi I'm Kim.YJ 
+
+<div align=center>
+ 
 Publisher and Developer
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=gruvbox)
