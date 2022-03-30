@@ -10,7 +10,7 @@
 
 [![html](https://img.shields.io/badge/Html-E34F26??style=flat&logo=Html5&logoColor=white)](https://github.com/KYJ0206/JavaScript_practice)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/KYJ0206/Publishing) 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://github.com/KYJ0206/React_Project) 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/KYJ0206/React_Project) 
 [![React](https://img.shields.io/badge/React%20-61DAFB?style=flat&logo=React&logoColor=black)](https://github.com/KYJ0206/React_Project)<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKYJ0206&count_bg=%238EB8C6&title_bg=%235D7E89&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 <!-- 
