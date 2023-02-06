@@ -13,6 +13,7 @@
 [![sass](https://img.shields.io/badge/Scss-white?style=flat&logo=Sass&logoColor=CC6699)](https://github.com/KYJ0206/Hellodigital/tree/main/SCRIPT/SCSS)
 [![JS](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/KYJ0206/Hellodigital/tree/main/GITGO) 
 [![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/KYJ0206/React_Project)<br>
+[![jQuery]([https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black")](https://github.com/KYJ0206/Publishing/tree/main/002.CSS%ED%95%99%EC%8A%B5)
 [![GITHUB](https://img.shields.io/badge/github-171515?style=flat&logo=github&logoColor=white)](https://github.com/KYJ0206/)
 [![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://github.com/KYJ0206/MY-PORTFOLIO)
 [![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/KYJ0206/MongoDB)
