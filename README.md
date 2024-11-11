@@ -10,7 +10,7 @@
  
 #### Kickstart Your Web Developer Career <br>
 
-[![html](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/KYJ0206/Hellodigital)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 [![css](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/KYJ0206/Publishing/tree/main/002.CSS%ED%95%99%EC%8A%B5)
 [![sass](https://img.shields.io/badge/Scss-white?style=flat&logo=Sass&logoColor=CC6699)](https://github.com/KYJ0206/Hellodigital/tree/main/SCRIPT/SCSS)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/)](https://github.com/KYJ0206/Publishing/tree/main/002.CSS%ED%95%99%EC%8A%B5) 
