@@ -1,9 +1,8 @@
 <div align=center>
 
 ### 👋 안녕하세요 
-### 상상을 코드로 구현해 현실로 만드는 퍼블리셔 & 프론트 개발자 김영재 입니다.
-
- 
+### 상상을 코드로 구현해 현실로 만드는 퍼블리셔 & 프론트 개발자 김영재 입니다.<br><br>
+### 아이디어를 코드로, 상상을 현실로; 무한 가능성을 설계하다.
 ### Publisher and Developer<br><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&show_icons=true&theme=gruvbox)
