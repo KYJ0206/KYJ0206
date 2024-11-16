@@ -7,6 +7,7 @@
 #### < Publisher and Developer ><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&theme=great-gatsby&show_icons=true) <br><br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KYJ0206&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYJ0206&layout=compact&theme=dracula)
  
 #### Kickstart Your Web Developer Career <br>
