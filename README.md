@@ -1,6 +1,6 @@
 <div align=center>
 
-![](https://capsule-render.vercel.app/api?section=footer?type=shark)
+![](https://capsule-render.vercel.app/api?section=footer?type=venom?height=150?animation=twinkling?text=안녕하세요%20백엔드%20개발자%20박소연입니다%20🙋‍♀️)
  
 ### 👋 안녕하세요! 찾아와 주셔서 감사합니다.
 ### 상상을 코드로 구현해 현실로 만드는 퍼블리셔 & 프론트 개발자 김 영재 입니다.
