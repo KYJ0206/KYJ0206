@@ -7,7 +7,7 @@
 #### [ 아이디어를 코드로, 상상을 현실로; 무한 가능성을 설계하다. ]
 #### < Publisher and Developer ><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&theme=onedark&show_icons=true?count_private=true&hide=contribs,prs) <br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYJ0206&theme=onedark&show_icons=true?count_private=true&hide=contribs) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYJ0206&layout=compact&theme=onedark)
  
 #### Kickstart Your Web Developer Career <br>
