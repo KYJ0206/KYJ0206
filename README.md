@@ -1,7 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=👋%20안녕하세요!%20방문해%20주셔서%20감사합니다.&fontSize=30&animation=fadeIn)
- 
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&fontSize=30&animation=fadeIn)
+# 👋 안녕하세요! 방문해 주셔서 감사합니다.
 ### 상상을 코드로 구현해 현실로 만드는 퍼블리셔 & 프론트 개발자 김 영재 입니다.
 ### 저의 <a href="https://kyj0206.github.io/">블로그</a>를 찾아와 주시면 제가 작성한 글들을 볼 수 있어요.<br><br><br>
 #### [ 아이디어를 코드로, 상상을 현실로; 무한 가능성을 설계하다. ]
